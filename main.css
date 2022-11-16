@@ -3529,3 +3529,9 @@ div.inner img{
 #footer h2{
 	color: black;
 }
+.myWork{
+	background-image: url("assets/css/images/overlay3.svg");
+	background-color: lightgray;
+	background-size: cover;
+	background-attachment: fixed;
+}
