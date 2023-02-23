@@ -1,5 +1,5 @@
 # Portfolio Website
-Tech used: HTML, CSS, SCSS, JavaScript
+**Tech used:** HTML, CSS, SCSS, JavaScript
 
 **Link to project:** https://jessefrenchdev.com
 
