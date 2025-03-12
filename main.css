@@ -1,4 +1,4 @@
-@import url("fontawesome-all.min.css");
+@import url("/assets/css/fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic");
 
 html, body, div, span, applet, object,
@@ -3504,32 +3504,38 @@ input, select, textarea {
 
 /************************************************************/
 
-#header{
+#header {
 	background-image: url("images/nordwood-themes-9a58YsGiTPk-unsplash.jpg");
 	background-size: cover;
 }
-div.inner img{
+
+div.inner img {
 	height: 300px;
 	width: 300px;
 }
-#two{
+
+#two {
 	background-image: url("images/andras-vas-PPXG_aN4IOo-unsplash.jpg");
 	background-position: center;
 }
-#four{
+
+#four {
 	background-image: url("images/seyi-ariyo-g42A22TR8k8-unsplash.jpg");
 	background-size: cover;
 	color: white;
 }
-#footer{
+
+#footer {
 	color: black;
 	background-image: url("images/joe-woods-4Zaq5xY5M_c-unsplash.jpg");
 	background-size: cover;
 }
-#footer h2{
+
+#footer h2 {
 	color: black;
 }
-.myWork{
+
+.myWork {
 	background-image: url("assets/css/images/overlay3.svg");
 	background-color: lightgray;
 	background-size: cover;
